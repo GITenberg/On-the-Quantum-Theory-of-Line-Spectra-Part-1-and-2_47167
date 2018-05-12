@@ -1,4 +1,8 @@
 _repo: On-the-Quantum-Theory-of-Line-Spectra-Part-1-and-2_47167
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bohr, Niels
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44167
     wikipedia: http://en.wikipedia.org/wiki/Niels_Bohr
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47167#On-the-Quantum-Theory-of-Line-Spectra-Part-1-and-2
 gutenberg_bookshelf: Physics
 gutenberg_issued: '2014-11-22'
 gutenberg_type: Text
